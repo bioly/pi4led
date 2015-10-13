@@ -1,2 +1,2 @@
 # pi4led - Raspeberry PI project
-#                     by LL@letocha.com
+# lukasz.letocha@gmail.com
